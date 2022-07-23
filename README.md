@@ -9,5 +9,5 @@ I'm Sefa. I'm a student at the Karadeniz Tecnical University. I share the projec
 <a href="https://instagram.com/sefasubasii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sefasubasii" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sefa-subaşı-824230169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sefa-subaşı-824230169/" height="30" width="40" /></a>
 
-
+  
 ![](https://komarev.com/ghpvc/?username=sefasubasi-github-username&color=red)
