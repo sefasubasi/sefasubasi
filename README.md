@@ -1,7 +1,7 @@
-### Hi there 👋
-### I'm Sefa
-### I'm a studnet in Karadeniz Tecnical University
-### I share the projects I have developed
+## Hi there 👋
+## I'm Sefa
+## I'm a studnet in Karadeniz Tecnical University
+## I share the projects I have developed
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
