@@ -1,4 +1,4 @@
-I'm Sefa. I'm a student at the Karadeniz Tecnical University. I share the projects.
+I'm Sefa. I'm studying at Karadeniz Technical University. I'm sharing my projects here.
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
