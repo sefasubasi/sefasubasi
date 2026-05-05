@@ -1,47 +1,37 @@
-<h1 align="center">Merhaba 👋, Ben Sefa Subaşı</h1>
-<h3 align="center">Bilgisayar Mühendisi | Backend & Otomasyon Meraklısı</h3>
+<h1 align="center">Hi 👋, I'm Sefa Subaşı</h1>
+<h3 align="center">Junior Software Developer | Backend & Automation Enthusiast</h3>
 
 ---
 
-### 👨‍💻 Hakkımda
-- 🎓 **Karadeniz Teknik Üniversitesi** Bilgisayar Mühendisliği mezunuyum.
-- 💻 **Backend Geliştirme, Veri Kazıma (Web Scraping) ve Otomasyon** konularında uzmanlaşıyorum[cite: 1].
-- 🛠️ **.NET Ekosistemi, SQL ve Scripting** dillerinde deneyim sahibiyim[cite: 1].
-- 🚀 Karmaşık sistemleri optimize etmeyi ve ölçeklenebilir çözümler üretmeyi seviyorum.
-- 🇹🇷 Kocaeli, Türkiye merkezli çalışıyorum[cite: 1].
+### 👨‍💻 About Me
+- 🎓 **Computer Engineering** graduate from Karadeniz Technical University.
+- 💻 Specialized in **Backend Development, Web Scraping, and Automation**.
+- 🤖 Experienced in **.NET Ecosystem, SQL Server, and C++**[cite: 1].
+- 🚀 Passionate about optimizing system performance and building scalable architectures.
+- 🇹🇷 Based in **Kocaeli, Turkey**.
+
+
+### 🛠️ Skills & Tools
+- **Languages:** C#, C++, Python, JavaScript, Go, SQL, VBScript, Bash.
+- **Frameworks:** ASP.NET Core, .NET Core, Web APIs[cite: 1].
+- **Automation & Tools:** Selenium, Git, GitHub, Postman, Linux.
 
 ---
 
-### 💼 Deneyimler
-- 🔹 **Orion Innovation Turkey** - Junior Software Developer Intern (Telekomünikasyon mimarisi ve Bash otomasyon araçları).
-- 🔹 **Yandex** - Search Engine Quality Improvement (Arama algoritmaları ve backend optimizasyonu).
-- 🔹 **CoCRM** - Data Mining Intern (Python & Selenium ile uçtan uca veri kazıma hatları).
-- 🔹 **Shell** - IT Intern.
+### 📂 Featured Projects
+- 🔍 **[Duplicate Class Finder & Analyzer](https://github.com/sefasubasi/Duplicate_Class_Finder_And_Analyzer):** A Bash-based automation tool that detects redundant C++ class definitions and generates structured JSON reports[cite: 1].
+- 💬 **[Chat App](https://github.com/sefasubasi/Chat_App):** My latest real-time chat application project developed for technical demonstrations.
+- 📊 **Electrical Circuits Visualization (TUSAŞ Lift Up):** A VBScript application for automated drawing of electrical systems in Zuken E3 using Excel data[cite: 1].
+- 🛒 **Gardrops Data Extractor:** A JavaScript injection module for high-efficiency market product scanning[cite: 1].
+- 📋 **To-Do Management System API:** A RESTful API built with Go featuring JWT authentication and role-based access control[cite: 1].
 
 ---
 
-### 🛠️ Yetkinlikler
-- **Diller:** C#, C++, Python, JavaScript, Go, SQL, VBScript, Bash[cite: 1].
-- **Backend:** ASP.NET Core, Web APIs, .NET Core, JWT, Multithreading[cite: 1].
-- **Araçlar & Platformlar:** Git, GitHub, Docker, Selenium, Postman, Linux[cite: 1].
-
----
-
-### 📂 Öne Çıkan Projeler
-- 🔍 **[Duplicate Class Finder & Analyzer](https://github.com/sefasubasi/Duplicate_Class_Finder_And_Analyzer):** C++ başlık dosyalarındaki mükerrer sınıfları tespit eden Bash tabanlı analiz aracı.
-- ⚡ **[Chat App](https://github.com/sefasubasi/Chat_App):** En son geliştirdiğim gerçek zamanlı sohbet uygulaması.
-- 📊 **Electrical Circuits Visualization (TUSAŞ Lift Up):** Excel verilerini kullanarak Zuken E3 programında otomatik çizim yapan VBScript uygulaması[cite: 1].
-- 🛒 **Gardrops Data Extractor:** JS Injection ile platform üzerinden veri analizi yapan özel script[cite: 1].
-- 📋 **To-Do Management System API:** Go ile geliştirilmiş, JWT tabanlı ve rol yönetimi içeren RESTful API.
-
----
-
-### 📫 İletişim
+### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/sefasubasi"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+<a href="https://linkedin.com/in/sefasubasi/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
 <a href="mailto:sefasubasii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-<a href="https://twitter.com/sefasubasii"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
 </p>
 
-### 👀 Profil İzlenmesi
+### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=sefasubasi&color=blue)
